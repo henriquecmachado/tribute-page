@@ -1,0 +1,93 @@
+* {
+    margin: 0; 
+    padding: 0; 
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+}
+
+.doctor-title {
+    margin-top: 35px; 
+    background-color: rgb(192, 189, 189); 
+    height: 150px; 
+}
+
+ .doctor-description-name {
+    position: absolute;
+    margin-left: 520px; 
+    margin-top: 35px; 
+    font-weight: 700px;
+    color: white; 
+}
+
+.doctor-title p {
+    color: white;
+    position: absolute; 
+    margin-left: 547px;
+    margin-top: 85px; 
+}
+
+.background-image {
+     margin-left: 170px; 
+}
+
+.color-div p {
+    font-size: 15px;
+    text-align: center;
+    margin-top: 15px;
+}
+
+.year-unordered-list {
+    background-color: #dee2e6; 
+
+}
+
+ div .title {
+    text-align: center; 
+    padding-top: 40px;
+    padding-bottom: 40px;  
+}
+
+.year-unordered-list ul li {
+    margin-left: 420px; 
+    padding-bottom: 29px; 
+    width: 600px; 
+    word-wrap: break-word; 
+}
+
+.color-div p {
+    margin-top: 25px; 
+    margin-bottom: 35px; 
+}
+
+.borlaugs-life {
+    padding-top: 35px; 
+    margin-left: 405px;
+     width: 600px; 
+    word-wrap: break-word;
+    font-style: italic; 
+}
+
+.indian-quote {
+    padding-top: 35px; 
+    margin-left: 405px;
+    padding-bottom: 35px; 
+    font-style: italic;
+}
+
+.phrase {
+    text-align: center; 
+    padding-bottom: 35px; 
+}
+
+.phrase a {
+    text-decoration: none; 
+}
+
+.white-space {
+    background-color: white; 
+    margin-top: 50px;
+
+}
